@@ -1,0 +1,2 @@
+# mongocoin
+Mongocoin WhitePaper
